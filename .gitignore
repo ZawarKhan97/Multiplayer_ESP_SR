@@ -1,0 +1,17 @@
+# Ignore build directory
+/build/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Devcontainer settings
+.devcontainer/
+
+# Optional: Ignore Python environment directories (if applicable)
+*.pyc
+__pycache__/
+
+# Optional: Ignore other temporary files
+*.log
+*.tmp
+*.swp
